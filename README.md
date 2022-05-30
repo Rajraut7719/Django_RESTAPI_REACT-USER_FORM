@@ -11,6 +11,6 @@ To get this project up and running locally on your computer follow the following
     * npm start-react 
    
 3. Open a browser and go to http://localhost:8000/
-4. en a browser and go to http://localhost:3000/
+4. Open a browser and go to http://localhost:3000/
 
 ![screen-capture_8MTEzREj](https://user-images.githubusercontent.com/96526237/170897894-831f7bf1-cea6-474a-8530-bab38b08ea1a.gif)
